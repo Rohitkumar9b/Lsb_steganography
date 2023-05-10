@@ -2,8 +2,8 @@
 """
 LSB Steganography program in Python 3
 Requirements: OpenCV, NumPy, Crypography
-Author: Suman Adhikari
-GitHub: https://github.com/int-main
+Author: Rohit Kumar
+GitHub: https://github.com/Rohitkumar9b/Lsb_steganography.git
 """
 
 from cv2 import imread,imwrite

@@ -2,8 +2,8 @@
 """
 GUI program for LSB Steganography in Python 3
 Requirements: PyQt5, OpenCV, NumPy, Crypography
-Author: Suman Adhikari
-GitHub: https://github.com/int-main
+Author: Rohit Kumar
+GitHub: https://github.com/Rohitkumar9b/Lsb_steganography.git
 """
 
 from PyQt5 import QtCore, QtGui, QtWidgets
